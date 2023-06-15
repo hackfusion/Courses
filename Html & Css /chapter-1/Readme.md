@@ -1,4 +1,4 @@
-# Chapter 1: Introduction to HTML
+# Chapter 1: Introduction to HTML 
 
 In this chapter, we will introduce you to the basics of HTML (HyperText Markup Language). HTML is the standard markup language used to structure the content of web pages. By the end of this chapter, you will have a solid understanding of HTML's syntax, fundamental elements, and their usage.
 
