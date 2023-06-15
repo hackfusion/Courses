@@ -59,7 +59,7 @@ Let's create a simple HTML page to understand how these tags work together:
 </body>
 </html>
 ```
-
+![image]()
 In the above example:
 - We have a heading `<h1>` that displays the text "Welcome to My Web Page."
 - The paragraph `<p>` contains some sample text.
